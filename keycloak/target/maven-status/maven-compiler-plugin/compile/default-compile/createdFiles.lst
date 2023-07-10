@@ -1,0 +1,7 @@
+com/mycompany/keycloak/controller/UserController.class
+com/mycompany/keycloak/JwtAuthConverter.class
+com/mycompany/keycloak/controller/AdminController.class
+com/mycompany/keycloak/config.class
+com/mycompany/keycloak/JwtAuthConvterProperties.class
+com/mycompany/keycloak/Keycloak.class
+com/mycompany/keycloak/controller/CommonController.class
